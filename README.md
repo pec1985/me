@@ -31,7 +31,9 @@ Built with native mobile apps, a custom time-series backend, and a modern event 
 
 ---
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pec1985)
+Pedro's GitHub stats up to April 17, 2025:  
+![image](2025.png)
+![image](2024.png)
 
 ---
 
